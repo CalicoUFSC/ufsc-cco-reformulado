@@ -13,3 +13,10 @@ mais consagradas na mesma área e curso vem aos poucos perdendo qualidade e
 perdendo sua tradicional colocação entre os melhores do país e da América
 Latina.
 
+#### Como será:
+Primeiramente marcaremos a versão atual do currículo com um novo release neste
+repositório. Mudanças serão efetuadas de acordo com opiniões mais difundidas
+entre os alunos e docentes e, então, será aberta a possibilidade de enviar
+propostas para serem discutidas (através das issues, e após discussão,
+aprovadas). Ao fim de todas as modificações, teremos um novo currículo muito
+mais apropriado ao porte do nosso curso.
