@@ -13,6 +13,8 @@ mais consagradas na mesma área e curso vem aos poucos perdendo qualidade e
 perdendo sua tradicional colocação entre os melhores do país e da América
 Latina.
 
+![Grafo curricular](grafo-curricular.svg)
+
 ### Como será:
 Primeiramente marcaremos a versão atual do currículo com um novo release neste
 repositório. Mudanças serão efetuadas de acordo com opiniões mais difundidas
