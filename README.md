@@ -13,7 +13,7 @@ mais consagradas na mesma área e curso vem aos poucos perdendo qualidade e
 perdendo sua tradicional colocação entre os melhores do país e da América
 Latina.
 
-![Grafo curricular](/grafo-curricular.svg)
+![Grafo curricular][grafo-curricular]
 
 ### Como será:
 Primeiramente marcaremos a versão atual do currículo com um novo release neste
@@ -22,3 +22,5 @@ entre os alunos e docentes e, então, será aberta a possibilidade de enviar
 propostas para serem discutidas (através das issues, e após discussão,
 aprovadas). Ao fim de todas as modificações, teremos um novo currículo muito
 mais apropriado ao porte do nosso curso.
+
+[grafo-curricular]: https://www.inf.ufsc.br/~stenny/curriculum_graph.svg
