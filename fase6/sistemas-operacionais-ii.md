@@ -1,6 +1,6 @@
 ---
-código: 
-nome: 
+código: INE5424
+nome: Sistemas Operacionais II
 status: mantido
 ---
 
