@@ -1,9 +1,9 @@
 ---
-código: INE5401
-nome: Introdução à Computação
+código: INE5406
+nome: Sistemas Digitais
 status: mantido
 ---
 
 #### Ementa:
-Uso versus funcionamento interno de computadores. Organização de Computadores. Teoria da Computação. Linguagem de Computador. Sistemas Operacionais. Redes de Computadores. Sistemas Distribuídos. Engenharia de Software. Matemática na Computação. Tecnologias da informação: Bancos de Dados, Computação Gráfica, Segurança, Inteligência Artificial. Computação e Ética.
-
+Máquinas seqüenciais síncronas (Mealy e Moore) e sua representação (diagramas de transição e descrição em HDL). Síntese de circuitos seqüenciais (minimização e codificação de estados). Mapeamento e alternativas de implementação de máquinas de estado ("hardwired", PLA, ROM e PLD). Estudos de casos: controladores de memória, de interrupção, de DMA. Simulação de sistemas digitais descritos em HDL no nível de transferência entre registradores. CPU vista como um sistema digital (datapath e unidade de controle). Unidade de controle de uma CPU simples 
+("hardwired" e microprogramada).
