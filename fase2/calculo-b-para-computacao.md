@@ -5,5 +5,4 @@ status: mantido
 ---
 
 #### Ementa:
-Não existe (como diabos isso foi aprovado?)
-
+Aplicações da integral definida. Integrais impróprias. Funções de várias variáveis. Derivadas parciais. Séries de números reais. Séries de funções. Avaliação de funções: série de Taylor e Maclaurin.
