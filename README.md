@@ -23,6 +23,14 @@ propostas para serem discutidas (através das issues, e após discussão,
 aprovadas). Ao fim de todas as modificações, teremos um novo currículo muito
 mais apropriado ao porte do nosso curso.
 
+### Como contribuir:
+Se você tem uma sugestão bem consolidada que requer uma grande mudança (ou até
+a remoção/adição) de uma disciplina, faça um fork do repositório, modifique e
+peça um merge request. Caso seja algo simples que você ainda não tem certeza
+como deve ser feito, abra uma issue neste repositório. Em ambos os casos, não
+esqueça de divulgar nos grupos do Facebook para que outros alunos também vejam
+e opinem. Caso haja boa argumentação e aprovação, a alteração será aceita.
+
 ### Referências:
 O critério de escolha destes cursos constrói-se a partir de avaliações de órgãos públicos (MEC, ENADE, CAPES), desempenho em olimpíadas de matemática e informática, maratonas de programação, e opinião popular.
 
