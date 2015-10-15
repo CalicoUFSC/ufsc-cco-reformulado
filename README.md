@@ -32,7 +32,9 @@ esqueça de divulgar nos grupos do Facebook para que outros alunos também vejam
 e opinem. Caso haja boa argumentação e aprovação, a alteração será aceita.
 
 ### Referências:
-O critério de escolha destes cursos constrói-se a partir de avaliações de órgãos públicos (MEC, ENADE, CAPES), desempenho em olimpíadas de matemática e informática, maratonas de programação, e opinião popular.
+O critério de escolha destes cursos constrói-se a partir de
+avaliações de órgãos públicos (MEC, ENADE, CAPES), desempenho em olimpíadas de
+matemática e informática, maratonas de programação, e opinião popular.
 
 #### [IME/USP](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=45&codcur=45051&codhab=1&tipo=N)
 - **Duração**: média-alta com tempo de 4 anos de finalização. Os primeiros três semestres são pesados e os últimos três dependem do aluno por conta da carga eletiva.
@@ -41,13 +43,13 @@ O critério de escolha destes cursos constrói-se a partir de avaliações de ó
  - *Highlights*: [computação musical](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAC0337&codcur=45051&codhab=1), [teoria dos jogos algorítmica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAC0466&codcur=45051&codhab=1) e [desenvolvimento de software livre](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAC0466&codcur=45051&codhab=1).
 
 #### [IC/UNICAMP](http://www.dac.unicamp.br/sistemas/catalogos/grad/catalogo2015/proposta/sug42.html)
-- **Duração**: longa, porém bem distribuída ao longo de dez semestres homogêneos. 
-- **Variabilidade no curso**: assemelha-se à UFSC na escolha de uma boa quantidade de matérias (orientação a objetos, banco de dados, redes de computadores), mas tem uma base matemática maior, com algumas matérias de física. 
-- **Versatilidade de optativas**: distribuição fixa entre alguns subconjuntos de matérias que podem não agradar a todos os alunos. 
+- **Duração**: longa, porém bem distribuída ao longo de dez semestres homogêneos.
+- **Variabilidade no curso**: assemelha-se à UFSC na escolha de uma boa quantidade de matérias (orientação a objetos, banco de dados, redes de computadores), mas tem uma base matemática maior, com algumas matérias de física.
+- **Versatilidade de optativas**: distribuição fixa entre alguns subconjuntos de matérias que podem não agradar a todos os alunos.
  - *Highlights*: [visão computacional](http://www.dac.unicamp.br/sistemas/catalogos/grad/catalogo2015/coordenadorias/0023/0023.html#MC949) e [processamento de línguas naturais](http://www.dac.unicamp.br/sistemas/catalogos/grad/catalogo2015/coordenadorias/0023/0023.html#MC896).
 
 #### [DCC/UFMG](http://dcc.ufmg.br/dcc/sites/default/files/public/arquivos_diversos/grade_BCC_2014_2.pdf)
-- **Duração**: 4 anos com carga horária média, porém espremida em uma grande quantidade de matérias. 
+- **Duração**: 4 anos com carga horária média, porém espremida em uma grande quantidade de matérias.
 - **Variabilidade no curso**: base matemática e algorítmica excepcional, apresentando uma quantidade alta de matérias da física e economia (!), e tópicos como organização e redes de computadores e engenharia de software presentes.
 - **Versatilidade de optativas**: novamente, demasiada quantidade de matérias de física e economia, porém com possibilidade de escolha de tópicos computacionais avançados.
  - *Highlights*: [computação natural, semântica formal e mineração de dados.](http://dcc.ufmg.br/dcc/?q=pt-br/ementa_BCC)
@@ -70,10 +72,10 @@ O critério de escolha destes cursos constrói-se a partir de avaliações de ó
 - **Versatilidade de optativas**: lista extensa com os mais variados tópicos que podem agradar quase qualquer tipo de aluno.
  - *Highlights*: [computação quântica](https://www.siga.ufrj.br/sira/repositorio-curriculo/disciplinas/EA38C730-92A4-F799-108D-AD9CA92A7AF4.html), [algoritmos de aproximação](https://www.siga.ufrj.br/sira/repositorio-curriculo/disciplinas/ED288074-92A4-F715-00E9-CEF74695A612.html) e [métodos espectrais](https://www.siga.ufrj.br/sira/repositorio-curriculo/disciplinas/EA7F6A23-92A4-F799-108D-AD9C21B16782.html).
 
-### [DSC/UFCG](http://www.computacao.ufcg.edu.br/graduacao/plano-de-curso)
+#### [DSC/UFCG](http://www.computacao.ufcg.edu.br/graduacao/plano-de-curso)
 - **Duração**: 4 anos, separados em 8 semestres, similar a UFSC, com os últimos semestres focados em optativas e no trabalho de conclusão.
 - **Variabilidade no curso**: primeiros semestre com foco em bases matemáticas e produção textual ciêntífica. Existe sempre uma matéria específica de laboratório em todos os semestres, salvo os dois últimos.
 - **Versatilidade de optativas**: lista muito diversa, extensa e focada em aprofundamento em assuntos específicos, como redes neurais, gerência de redes, história da computação (disponível [aqui](https://docs.google.com/spreadsheets/d/1O-An4KiwB-Y1DdWwvFt8pjkyZ9nwHrACVB5uQeiQMJA/pub?output=html)).
  - *Highlights*: [didática em computação](https://docs.google.com/a/computacao.ufcg.edu.br/viewer?a=v&pid=sites&srcid=Y29tcHV0YWNhby51ZmNnLmVkdS5icnxwcmluY2lwYWx8Z3g6NDY2MzA2OWYyYzVhNmY1), [*big data*](https://docs.google.com/a/computacao.ufcg.edu.br/viewer?a=v&pid=sites&srcid=Y29tcHV0YWNhby51ZmNnLmVkdS5icnxwcmluY2lwYWx8Z3g6NGU2ODFiNTcwYTBjOGY5Mw) e [metodologia científica para pesquisa](https://docs.google.com/a/computacao.ufcg.edu.br/viewer?a=v&pid=sites&srcid=Y29tcHV0YWNhby51ZmNnLmVkdS5icnxwcmluY2lwYWx8Z3g6M2IwYmYwMWZkZDQ4YWYy).
 
-[grafo-curricular]: https://raw.githubusercontent.com/zambonin/curriculum-graph/master/tree.png
+[grafo-curricular]: https://raw.githubusercontent.com/zambonin/curriculum-graph/master/svg/tree.png
