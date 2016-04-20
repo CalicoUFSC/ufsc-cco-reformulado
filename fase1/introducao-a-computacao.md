@@ -2,9 +2,8 @@
 código: INE5401
 nome: Introdução à Computação
 H/A: 36
-status: mantido
+status: alterado
 ---
 
 #### Ementa:
-Uso versus funcionamento interno de computadores. Organização de Computadores. Teoria da Computação. Linguagem de Computador. Sistemas Operacionais. Redes de Computadores. Sistemas Distribuídos. Engenharia de Software. Matemática na Computação. Tecnologias da informação: Bancos de Dados, Computação Gráfica, Segurança, Inteligência Artificial. Computação e Ética.
-
+O curso e as entidades relacionadas. Centro acadêmico, programa de educação tutorial, empresa júnior e laboratórios. Ementa livre para exploração do departamento e cursos oferecidos pelos laboratórios.
