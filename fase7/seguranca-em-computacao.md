@@ -1,6 +1,7 @@
 ---
 código: INE5429
 nome: Segurança em Computação
+H/A: 72
 status: mantido
 ---
 

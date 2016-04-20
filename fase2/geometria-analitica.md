@@ -1,6 +1,7 @@
 ---
 código: MTM5512
 nome: Geometria Analítica
+H/A: 72
 status: mantido
 ---
 

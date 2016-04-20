@@ -1,6 +1,7 @@
 ---
-código: Teoria da Computaçao
+código: Teoria da Computação
 nome: INE5415
+H/A: 72
 status: mantido
 ---
 

@@ -1,6 +1,7 @@
 ---
 código: INE5422
 nome: Redes de Computadores II
+H/A: 72
 status: mantido
 ---
 

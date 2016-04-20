@@ -1,6 +1,7 @@
 ---
 código: INE5417
 nome: Engenharia de Software I
+H/A: 90
 status: mantido
 ---
 

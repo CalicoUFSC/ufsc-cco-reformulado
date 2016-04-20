@@ -1,6 +1,7 @@
 ---
 código: INE5418
 nome: Computação Distribuída
+H/A: 72
 status: mantido
 ---
 

@@ -1,6 +1,7 @@
 ---
 código: INE5416
 nome: Paradigmas de Programação
+H/A: 90
 status: mantido
 ---
 

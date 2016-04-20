@@ -1,6 +1,7 @@
 ---
 código: INE5409
 nome: Cálculo Numérico para Computação
+H/A: 72
 status: mantido
 ---
 

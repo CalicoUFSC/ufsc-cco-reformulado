@@ -1,6 +1,7 @@
 ---
 código: INE5428
 nome: Informática e Sociedade
+H/A: 72
 status: mantido
 ---
 

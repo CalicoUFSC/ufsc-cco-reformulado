@@ -1,6 +1,7 @@
 ---
 código: INE5432
 nome: Banco de Dados II
+H/A: 72
 status: mantido
 ---
 

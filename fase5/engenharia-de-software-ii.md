@@ -1,6 +1,7 @@
 ---
 código: INE5419
 nome: Engenharia de Software II
+H/A: 72
 status: mantido
 ---
 

@@ -1,6 +1,7 @@
 ---
 código: INE5414
 nome: Redes de Computadores I
+H/A: 72
 status: mantido
 ---
 

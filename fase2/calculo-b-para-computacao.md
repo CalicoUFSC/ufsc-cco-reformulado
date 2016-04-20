@@ -1,6 +1,7 @@
 ---
 código: MTM7174
 nome: Cálculo B para Computação
+H/A: 72
 status: mantido
 ---
 

@@ -1,6 +1,7 @@
 ---
 código: INE5401
 nome: Introdução à Computação
+H/A: 36
 status: mantido
 ---
 

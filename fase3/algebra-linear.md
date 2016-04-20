@@ -1,6 +1,7 @@
 ---
 código: MTM5245
 nome: Álgebra Linear
+H/A: 72
 status: mantido
 ---
 

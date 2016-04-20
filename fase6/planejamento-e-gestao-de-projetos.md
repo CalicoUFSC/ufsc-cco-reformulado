@@ -1,6 +1,7 @@
 ---
 código: INE5427
 nome: Planejamento e Gestão de Projetos
+H/A: 72
 status: mantido
 ---
 

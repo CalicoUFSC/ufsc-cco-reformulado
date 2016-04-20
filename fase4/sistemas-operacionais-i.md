@@ -1,6 +1,7 @@
 ---
 código: Sistemas Operacionais I
 nome: INE5412
+H/A: 72
 status: mantido
 ---
 
