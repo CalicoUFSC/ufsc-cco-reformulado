@@ -1,6 +1,7 @@
 ---
 código: INE5410
 nome: Programação Concorrente
+H/A: 72
 status: mantido
 ---
 

@@ -1,6 +1,7 @@
 ---
 código: INE5424
 nome: Sistemas Operacionais II
+H/A: 72
 status: mantido
 ---
 

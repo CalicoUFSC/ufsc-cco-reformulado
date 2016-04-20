@@ -1,6 +1,7 @@
 ---
 código: INE5403
 nome: Fundamentos de Matemática Discreta para Computação
+H/A: 108
 status: mantido
 ---
 

@@ -1,6 +1,7 @@
 ---
 código: INE5411
 nome: Organização de Computadores I
+H/A: 108
 status: mantido
 ---
 

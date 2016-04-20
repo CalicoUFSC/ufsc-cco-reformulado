@@ -1,6 +1,7 @@
 ---
 código: INE5423
 nome: Banco de Dados I
+H/A: 72
 status: mantido
 ---
 

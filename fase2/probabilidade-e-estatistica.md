@@ -1,6 +1,7 @@
 ---
 código: INE5405
 nome: Probabilidade e Estatística
+H/A: 90
 status: mantido
 ---
 

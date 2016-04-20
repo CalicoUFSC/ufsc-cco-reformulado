@@ -1,6 +1,7 @@
 ---
 código: INE5425
 nome: Modelagem e Simulação
+H/A: 72
 status: mantido
 ---
 

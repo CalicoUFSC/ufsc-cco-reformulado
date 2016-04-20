@@ -1,6 +1,7 @@
 ---
 código: EEL5105
 nome: Circuitos e Técnicas Digitais
+H/A: 90
 status: mantido
 ---
 

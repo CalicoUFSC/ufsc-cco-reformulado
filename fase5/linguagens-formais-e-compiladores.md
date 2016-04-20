@@ -1,6 +1,7 @@
 ---
 código: INE5421
 nome: Linguagens Formais e Compiladores
+H/A: 72
 status: mantido
 ---
 

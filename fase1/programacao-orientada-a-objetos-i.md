@@ -1,6 +1,7 @@
 ---
 código: INE5402
 nome: Programação Orientada a Objetos I
+H/A: 108
 status: mantido
 ---
 

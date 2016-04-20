@@ -1,6 +1,7 @@
 ---
 código: INE5426
 nome: Construção de Compiladores
+H/A: 72
 status: mantido
 ---
 
