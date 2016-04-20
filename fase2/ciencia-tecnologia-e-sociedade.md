@@ -1,9 +1,9 @@
 ---
-código: INE5401
-nome: Introdução à Computação
+código: INE5407
+nome: Ciência, Tecnologia e Sociedade
+H/A: 54
 status: mantido
 ---
 
 #### Ementa:
-Uso versus funcionamento interno de computadores. Organização de Computadores. Teoria da Computação. Linguagem de Computador. Sistemas Operacionais. Redes de Computadores. Sistemas Distribuídos. Engenharia de Software. Matemática na Computação. Tecnologias da informação: Bancos de Dados, Computação Gráfica, Segurança, Inteligência Artificial. Computação e Ética.
-
+Estudo das relações entre ciência, tecnologia e sociedade ao longo da história, com ênfase na atualidade; filosofia da ciência; análise de valores e ideologias envolvendo a produção e divulgação da ciência e da tecnologia; influências das diferenças culturais nas concepções de ciência e tecnologia e de suas relações com as sociedades; a participação da sociedade na definição de políticas relativas às questões científicas, tecnológicas, econômicas e ecológicas. O impacto da informática na sociedade.
