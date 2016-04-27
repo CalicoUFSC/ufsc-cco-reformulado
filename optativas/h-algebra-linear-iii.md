@@ -1,6 +1,8 @@
 ---
 código: MTM5813
 nome: H-Álgebra Linear III
+H/A: 108
+status: nova
 ---
 
 #### Ementa:

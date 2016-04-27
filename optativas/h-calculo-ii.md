@@ -1,6 +1,8 @@
 ---
 código: MTM5802
 nome: H-Cálculo II
+H/A: 108
+status: nova
 ---
 
 #### Ementa:

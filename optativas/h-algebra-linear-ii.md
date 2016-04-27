@@ -1,6 +1,8 @@
 ---
 código: MTM5812
 nome: H-Álgebra Linear II
+H/A: 108
+status: nova
 ---
 
 #### Ementa:

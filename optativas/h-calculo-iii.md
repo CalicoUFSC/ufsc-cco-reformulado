@@ -1,6 +1,8 @@
 ---
 código: MTM5803
 nome: H-Cálculo III
+H/A: 108
+status: nova
 ---
 
 #### Ementa:
