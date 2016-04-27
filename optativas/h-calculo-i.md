@@ -1,6 +1,8 @@
 ---
 código: MTM5801
 nome: H-Cálculo I
+H/A: 108
+status: nova
 ---
 
 #### Ementa:
