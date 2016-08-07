@@ -41,6 +41,9 @@ matemática e informática, maratonas de programação, e opinião popular.
 - **Variabilidade no curso**: apresenta uma base matemática fortíssima (cálculos, física, combinatórias e álgebras), laboratórios de prática de programação e algoritmos em peso. Foca muito menos na parte de arquitetura de computadores, engenharia de software e sistemas operacionais.
 - **Versatilidade de optativas**: permite ao aluno escolher dentre uma grande lista das mais diferentes matérias e/ou focar em um tópico específico, estudando-o a fundo.
  - *Highlights*: [computação musical](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAC0337&codcur=45051&codhab=1), [teoria dos jogos algorítmica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAC0466&codcur=45051&codhab=1) e [desenvolvimento de software livre](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAC0466&codcur=45051&codhab=1).
+- Produzido por esta instituição, um documento que realiza comparações entre diversos
+cursos de Ciência da Computação, tomando como base o currículo de referência da SBC,
+pode ser encontrado [aqui](http://bcc.ime.usp.br/principal/documentos/bccs.pdf).
 
 #### [IC/UNICAMP](http://www.dac.unicamp.br/sistemas/catalogos/grad/catalogo2015/proposta/sug42.html)
 - **Duração**: longa, porém bem distribuída ao longo de dez semestres homogêneos.
