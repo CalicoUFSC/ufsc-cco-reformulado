@@ -2,7 +2,7 @@
 código: INE5430
 nome: Inteligência Artificial
 H/A: 72
-status: mantido
+status: alterado
 ---
 
 #### Ementa:

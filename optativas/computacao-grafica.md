@@ -2,7 +2,7 @@
 código: INE5420
 nome: Computação Gráfica
 H/A: 72
-status: mantido
+status: alterado
 ---
 
 #### Ementa:
