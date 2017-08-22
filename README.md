@@ -81,4 +81,4 @@ pode ser encontrado [aqui](http://bcc.ime.usp.br/principal/documentos/bccs.pdf).
 - **Versatilidade de optativas**: lista muito diversa, extensa e focada em aprofundamento em assuntos específicos, como redes neurais, gerência de redes, história da computação (disponível [aqui](https://docs.google.com/spreadsheets/d/1O-An4KiwB-Y1DdWwvFt8pjkyZ9nwHrACVB5uQeiQMJA/pub?output=html)).
  - *Highlights*: [didática em computação](https://docs.google.com/a/computacao.ufcg.edu.br/viewer?a=v&pid=sites&srcid=Y29tcHV0YWNhby51ZmNnLmVkdS5icnxwcmluY2lwYWx8Z3g6NDY2MzA2OWYyYzVhNmY1), [*big data*](https://docs.google.com/a/computacao.ufcg.edu.br/viewer?a=v&pid=sites&srcid=Y29tcHV0YWNhby51ZmNnLmVkdS5icnxwcmluY2lwYWx8Z3g6NGU2ODFiNTcwYTBjOGY5Mw) e [metodologia científica para pesquisa](https://docs.google.com/a/computacao.ufcg.edu.br/viewer?a=v&pid=sites&srcid=Y29tcHV0YWNhby51ZmNnLmVkdS5icnxwcmluY2lwYWx8Z3g6M2IwYmYwMWZkZDQ4YWYy).
 
-[grafo-curricular]: https://raw.githubusercontent.com/zambonin/curriculum-graph/master/svg/tree.png
+[grafo-curricular]: https://raw.githubusercontent.com/zambonin/curriculum-graph/master/tree.png
